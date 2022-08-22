@@ -5,7 +5,7 @@
 
  
 ### Doing Now
-* Working on making a system to do a predictive graph of the number of monitors on NBOSS.
+* Working on making a system to do a predictive graph of the number of monitors.
 
 ### Code Snippets
 
