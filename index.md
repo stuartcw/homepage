@@ -16,6 +16,8 @@
 
 ### Code Snippets
 
+ [Edit this page on GitHub](https://github.com/stuartcw/homepage/edit/master/index.md)
+
 ```markdown
 Syntax highlighted code block
 
