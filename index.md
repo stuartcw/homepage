@@ -1,5 +1,6 @@
 ## Weather
 * [Yahoo Japan Typhoon](https://typhoon.yahoo.co.jp/weather/jp/typhoon/)
+
 ## Interests
 
 ## Links
