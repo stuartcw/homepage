@@ -8,7 +8,7 @@
 <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/stuartcw/programming-languages-31821983/embed"></iframe>
 
 ## Links
- [Edit this page on GitHub](https://github.com/stuartcw/homepage/edit/master/index.md)
+
 
  
 ### Doing Now
