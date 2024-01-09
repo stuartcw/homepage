@@ -5,4 +5,4 @@ description: |
   <h2>Weather</h2>
   <a href="https://typhoon.yahoo.co.jp/weather/jp/typhoon/">Yahoo Japan Typhoon</a>
   <h2>Programming</h2>
-  <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/stuartcw/programming-languages-31821983/embed"></iframe>
+  <iframe style="border: 0; width: 100%; height: 300px;" allowfullscreen frameborder="0" src="https://raindrop.io/stuartcw/programming-languages-31821983/embed"></iframe>
