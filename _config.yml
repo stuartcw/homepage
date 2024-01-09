@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: Stuart Woodward's Homepage
 description: |
   A homepage for new browser tabs. Links to often used sites and quick access to information.
-  ## Weather
-  * [Yahoo Japan Typhoon](https://typhoon.yahoo.co.jp/weather/jp/typhoon/)
+  <h2>Weather</h2>
+  <a href="https://typhoon.yahoo.co.jp/weather/jp/typhoon/">Yahoo Japan Typhoon</a>
 
