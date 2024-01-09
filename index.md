@@ -1,16 +1,3 @@
-## Weather
-* [Yahoo Japan Typhoon](https://typhoon.yahoo.co.jp/weather/jp/typhoon/)
-
-## Interests
-
-### Programming
-
-<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/stuartcw/programming-languages-31821983/embed"></iframe>
-
-## Links
-
-
- 
 ### Doing Now
 * Working on making a system to do a predictive graph of the number of monitors.
 
