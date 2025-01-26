@@ -5,11 +5,11 @@ title: Stuart Woodward's Homepage
 theme: null
 
 # Specify where your layout files are located
-include:
-  - _layouts
-  - _includes
-  - _sass
-  - assets
+#include:
+#  - _layouts
+#  - _includes
+#  - _sass
+#  - assets
 
 # Author settings
 author:
