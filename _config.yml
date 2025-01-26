@@ -1,8 +1,29 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 title: Stuart Woodward's Homepage
+
+# Author settings
+author:
+  name: Stuart Woodward 
+  email: stuart at stuartwoodward dot com 
+
+# URL settings (if hosting on GitHub Pages)
+#url: "https://yourusername.github.io"
+baseurl: "" # Leave empty unless your site is hosted in a subdirectory
+
+# Markdown settings
+markdown: kramdown
+#highlighter: none
+kramdown:
+  input: GFM
+
+# Exclude files or directories from the build
+exclude:
+  - README.md
+
+# Plugins (add if you are using Jekyll plugins)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 description: |
-  A homepage for new browser tabs. Links to often used sites and quick access to information.
-  <h2>Weather</h2>
-  <a href="https://typhoon.yahoo.co.jp/weather/jp/typhoon/">Yahoo Japan Typhoon</a>
-  <h2>Programming</h2>
-  <iframe style="border: 0; width: 100%; height: 300px;" allowfullscreen frameborder="0" src="https://raindrop.io/stuartcw/programming-languages-31821983/embed"></iframe>
+  This is Stuart Woodward's browser homepage which is opened whenever he opens a new browser tab. It is configured in the browser to do so.
