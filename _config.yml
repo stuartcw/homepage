@@ -1,9 +1,9 @@
 title: Stuart Woodward's Homepage
 
 # Specify where your layout files are located
-include:
-  - _layouts
-  - _sass
+# include:
+#  - _layouts
+#  - _sass
 
 # Author settings
 author:
