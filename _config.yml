@@ -7,7 +7,7 @@ title: Stuart Woodward's Homepage
 # Specify where your layout files are located
 include:
   - _layouts
-  - _includes
+# - _includes
   - _sass
 #  - assets
 
