@@ -2,7 +2,7 @@
 title: Stuart Woodward's Homepage
 
 # Remove any reference to a gem-based theme
-theme: null
+# theme: null
 
 # Specify where your layout files are located
 include:
