@@ -37,3 +37,6 @@ plugins:
 
 description: |
   This is Stuart Woodward's browser homepage which is opened whenever he opens a new browser tab. It is configured in the browser to do so.
+
+exclude:
+  - "*.md"
