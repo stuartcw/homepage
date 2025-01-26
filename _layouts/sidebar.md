@@ -8,6 +8,5 @@
 * [Raindrop - Recent](https://app.raindrop.io/my/0)
 * [Raindrop - Broken Links](https://app.raindrop.io/my/0/broken:true)
 
-<footer>
-  <p>This page is located at: <code>{{ page.path }}</code></p>
-</footer>
+
+This page is located at: /_layouts/sidebar.md
