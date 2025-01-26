@@ -17,8 +17,8 @@ author:
   email: stuart at stuartwoodward dot com 
 
 # URL settings (if hosting on GitHub Pages)
-url: "https://stuartcw.github.io"
-baseurl: "https://stuartcw.github.io/homepage" # Leave empty unless your site is hosted in a subdirectory
+#url: "https://stuartcw.github.io"
+#baseurl: "https://stuartcw.github.io/homepage" # Leave empty unless your site is hosted in a subdirectory
 
 # Markdown settings
 markdown: kramdown
