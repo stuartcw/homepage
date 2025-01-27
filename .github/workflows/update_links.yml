@@ -29,7 +29,7 @@ jobs:
     - name: Update documentation link
       run: |
         # Your command to update the link using ${{ steps.docs.outputs.url }}
-        # Example: sed -i "s|OLD_URL|${{ steps.docs.outputs.url }}|g" README.md
+        sed -i "s|https://docs\.python\.org/release/[^/]*/|${{ steps.docs.outputs.url }}|g" sidebar.md
         
     - name: Commit and push changes
       run: |
