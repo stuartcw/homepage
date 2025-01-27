@@ -1,0 +1,40 @@
+name: Update Python Docs Link
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install requests beautifulsoup4
+
+    - name: Get latest docs URL
+      id: docs
+      run: |
+        echo "url=$(python scripts/get_latest_docs.py)" >> $GITHUB_OUTPUT
+
+    - name: Update documentation link
+      run: |
+        # Your command to update the link using ${{ steps.docs.outputs.url }}
+        # Example: sed -i "s|OLD_URL|${{ steps.docs.outputs.url }}|g" README.md
+        
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add .
+        git commit -m "Update Python docs link to ${{ steps.docs.outputs.url }}" || echo "No changes to commit"
+        git push
