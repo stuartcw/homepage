@@ -1,4 +1,8 @@
 
+## Python
+
+[Latest Release Documentation](https://docs.python.org/release/3.13.1/)
+
 ## Weather
 
 * [Yahoo Japan Typhoon](https://typhoon.yahoo.co.jp/weather/jp/typhoon)
