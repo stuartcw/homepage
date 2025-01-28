@@ -1,3 +1,9 @@
+## Sites
+
+### Books
+* [Everand](https://www.everand.com/home)
+* [Scribd](https://www.scribd.com/home)
+  * [Categories](https://www.scribd.com/docs/categories)
 
 ## Python
 
