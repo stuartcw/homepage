@@ -4,7 +4,7 @@ title: Stuart's Homepage
 ---
 [Edit this page on GitHub](https://github.com/stuartcw/homepage/edit/master/index.md)
 
-## Gmail
+### Gmail
 
 [Gmail](https://mail.google.com/mail/u/0/#inbox)
 
