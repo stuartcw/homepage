@@ -19,5 +19,7 @@
 * [Raindrop - Recent](https://app.raindrop.io/my/0)
 * [Raindrop - Broken Links](https://app.raindrop.io/my/0/broken:true)
 
+## This page
 
 <small>This page is located at: [/sidebar.md](https://github.com/stuartcw/homepage/edit/master/sidebar.md)</small>
+<small> [Github Pages Setup](https://github.com/stuartcw/homepage/settings/pages)
