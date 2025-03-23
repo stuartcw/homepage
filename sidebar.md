@@ -24,6 +24,8 @@
 
 ### Question Web Sites i.e.
 
+via [this](https://simonwillison.net/2024/Dec/19/q-and-qv-zsh-functions/)...
+
 * ```q https://simonwillison.net/ 'What has Simon written about recently?'```
 * ```qv 'https://www.youtube.com/watch?v=uRuLgar5XZw' 'what does Simon say about open source?'```
 
