@@ -1,4 +1,6 @@
 
+<small>
+
 ## Sites
 
 ### Books
@@ -25,8 +27,9 @@
 * ```q https://simonwillison.net/ 'What has Simon written about recently?'```
 * ```qv 'https://www.youtube.com/watch?v=uRuLgar5XZw' 'what does Simon say about open source?'```
 
-
 ### This page
 
-* <small>This page is located at: [/sidebar.md](https://github.com/stuartcw/homepage/edit/master/sidebar.md)</small>
-* <small> [Github Pages Setup](https://github.com/stuartcw/homepage/settings/pages)
+* This page is located at: [/sidebar.md](https://github.com/stuartcw/homepage/edit/master/sidebar.md)
+* [Github Pages Setup](https://github.com/stuartcw/homepage/settings/pages)
+
+</small>
