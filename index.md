@@ -16,32 +16,68 @@ title: Stuart's Homepage
 
 [Snippets]({{ site.baseurl }}/snippets)
 
+# International Keyboard Shortcuts Cheat Sheet (Mac/iPad)
 
-### Examples
+> **Note**: Use `Option` = ⌥, `Shift` = ⇧, and `Command` = ⌘
 
-|-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            |
-|-----------------+------------+-----------------+----------------|
-| Second body     |            |                 |                |
-| 2 line          |            |                 |                |
-|=================+============+=================+================|
-| Footer row      |            |                 |                |
-|-----------------+------------+-----------------+----------------|
+## Accented Vowels
 
+| Character | Shortcut                  |
+|-----------|---------------------------|
+| á         | ⌥ + e, then a             |
+| é         | ⌥ + e, then e             |
+| í         | ⌥ + e, then i             |
+| ó         | ⌥ + e, then o             |
+| ú         | ⌥ + e, then u             |
+| Á, É, etc.| ⌥ + e, then ⇧ + letter    |
 
-|---
-| Default aligned | Left aligned | Center aligned | Right aligned
-|-|:-|:-:|-:
-| First body part | Second cell | Third cell | fourth cell
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
-|---
-| Second body
-| 2 line
-|===
-| Footer row
+## Grave Accents
 
+| Character | Shortcut                  |
+|-----------|---------------------------|
+| à         | ⌥ + ` (backtick), then a  |
+| è         | ⌥ + `, then e             |
+| ì         | ⌥ + `, then i             |
+| ò         | ⌥ + `, then o             |
+| ù         | ⌥ + `, then u             |
+
+## Umlauts (Diaeresis)
+
+| Character | Shortcut                  |
+|-----------|---------------------------|
+| ä         | ⌥ + u, then a             |
+| ë         | ⌥ + u, then e             |
+| ï         | ⌥ + u, then i             |
+| ö         | ⌥ + u, then o             |
+| ü         | ⌥ + u, then u             |
+| Ä, Ü, etc.| ⌥ + u, then ⇧ + letter    |
+
+## Tilde
+
+| Character | Shortcut                  |
+|-----------|---------------------------|
+| ñ         | ⌥ + n, then n             |
+| Ñ         | ⌥ + n, then ⇧ + n         |
+| ã, õ      | ⌥ + n, then a/o           |
+
+## Circumflex
+
+| Character | Shortcut                  |
+|-----------|---------------------------|
+| â         | ⌥ + i, then a             |
+| ê         | ⌥ + i, then e             |
+| î         | ⌥ + i, then i             |
+| ô         | ⌥ + i, then o             |
+| û         | ⌥ + i, then u             |
+
+## Other Characters
+
+| Character | Shortcut                  |
+|-----------|---------------------------|
+| ç         | ⌥ + c                     |
+| Ç         | ⇧ + ⌥ + c                 |
+| ß (eszett)| ⌥ + s                     |
+| Ø         | ⇧ + ⌥ + o                 |
+| ø         | ⌥ + o                     |
+| ¿         | ⇧ + ⌥ + ?                 |
+| ¡         | ⌥ + 1                     |
