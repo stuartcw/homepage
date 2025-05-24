@@ -4,6 +4,12 @@ title: Stuart's Homepage
 ---
 [Edit this page on GitHub](https://github.com/stuartcw/homepage/edit/master/index.md)
 
+* [Linux Weekly](https://lwn.net/free/)
+
+### Shortcuts
+
+* [Open Reminders](shortcuts://open-shortcut?name=Open%20my%20Today%20list)
+
 ### Gmail
 
 [Gmail](https://mail.google.com/mail/u/0/#inbox)
