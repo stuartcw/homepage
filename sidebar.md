@@ -10,7 +10,7 @@
 
 ### Python
 
-[Latest Release Documentation](https://docs.python.org/release/3.13.4/)
+[Latest Release Documentation](https://docs.python.org/release/3.13.5/)
 
 ### Weather
 
