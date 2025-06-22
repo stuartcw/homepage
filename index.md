@@ -87,3 +87,31 @@ title: Stuart's Homepage
 | ø         | ⌥ + o                     |
 | ¿         | ⇧ + ⌥ + ?                 |
 | ¡         | ⌥ + 1                     |
+| £      | ⌥ + 3                | British Pound symbol                 |
+| €      | ⌥ + Shift + 2        | Euro symbol                          |
+| ¥      | ⌥ + y                | Yen symbol                           |
+| ¢      | ⌥ + 4                | Cent symbol                          |
+| §      | ⌥ + 6                | Section symbol                       |
+| ¶      | ⌥ + 7                | Pilcrow (paragraph mark)             |
+| •      | ⌥ + 8                | Bullet point                         |
+| …      | ⌥ + ;                | Ellipsis                             |
+| –      | ⌥ + -                | En dash                              |
+| —      | ⌥ + Shift + -        | Em dash                              |
+| ™      | ⌥ + 2                | Trademark symbol                     |
+| ®      | ⌥ + r                | Registered trademark                 |
+| ©      | ⌥ + g                | Copyright                            |
+| ≠      | ⌥ + =                | Not equal                            |
+| ±      | ⌥ + Shift + =        | Plus-minus                           |
+| ∞      | ⌥ + 5                | Infinity symbol                      |
+| ≤      | ⌥ + ,                | Less than or equal                   |
+| ≥      | ⌥ + .                | Greater than or equal                |
+| µ      | ⌥ + m                | Micro (physics/engineering use)      |
+| ∆      | ⌥ + j                | Delta (math symbol)                  |
+| √      | ⌥ + v                | Square root                          |
+| ≈      | ⌥ + x                | Approximately equal                  |
+| ∑      | ⌥ + w                | Summation symbol                     |
+| ∫      | ⌥ + b                | Integral symbol                      |
+| ℓ      | ⌥ + l                | Script lowercase L (e.g. litres)     |
+| ∂      | ⌥ + d                | Partial derivative                   |
+| ‰      | ⌥ + Shift + r        | Per mille symbol                     |
+| °      | ⌥ + Shift + 8        | Degree symbol                        |
