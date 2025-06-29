@@ -1,3 +1,4 @@
+
 ## Sites
 
 ### Books
@@ -30,3 +31,5 @@ via [this](https://simonwillison.net/2024/Dec/19/q-and-qv-zsh-functions/)...
 
 * This page is located at: [/sidebar.md](https://github.com/stuartcw/homepage/edit/master/sidebar.md)
 * [Github Pages Setup](https://github.com/stuartcw/homepage/settings/pages)
+
+<small>https://github.com/stuartcw/homepage/edit/master/_includes/sidebar.md<small>
