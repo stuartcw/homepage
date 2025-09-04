@@ -10,9 +10,10 @@ title: Stuart's Homepage
 
 * [Open Reminders](shortcuts://open-shortcut?name=Open%20my%20Today%20list)
 
-### Gmail
+### Links
 
-[Gmail](https://mail.google.com/mail/u/0/#inbox)
+* [Gmail](https://mail.google.com/mail/u/0/#inbox)
+* [Amazon Japan](http://amazon.co.jp/)
 
 ### Doing Now
 * Working on making a system to do a predictive graph of the number of monitors.
