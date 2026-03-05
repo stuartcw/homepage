@@ -14,6 +14,7 @@ title: Stuart's Homepage
 
 * [Gmail](https://mail.google.com/mail/u/0/#inbox)
 * [Amazon Japan](http://amazon.co.jp/)
+* [scribd](https://www.scribd.com/home)
 
 ### Doing Now
 
